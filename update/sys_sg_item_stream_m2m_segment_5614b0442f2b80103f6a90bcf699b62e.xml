@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Store Item Stream">1a14b0442f2b80103f6a90bcf699b62d</item_stream>
+        <segment display_value="Store Item Stream Segment">5e14b0442f2b80103f6a90bcf699b62c</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-09 14:25:50</sys_created_on>
+        <sys_id>5614b0442f2b80103f6a90bcf699b62e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Shopping List" source="x_214976_shopping">2d7270c02f2b80103f6a90bcf699b6ff</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">2d7270c02f2b80103f6a90bcf699b6ff</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_5614b0442f2b80103f6a90bcf699b62e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-09 14:25:50</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>
